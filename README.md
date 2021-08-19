@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# 下载站 | Xgugugu's Blog
 
-You can use the [editor on GitHub](https://github.com/xgugugu/download/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+位置：[主页](https://xgugugu.github.io/blog/) -> [下载](https://github.com/xgugugu/download)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+一个爱咕咕初中生的下载站
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 开发工具
 
-```markdown
-Syntax highlighted code block
+### VS Code
 
-# Header 1
-## Header 2
-### Header 3
+一个由微软开发、功能强大的IDE
 
-- Bulleted
-- List
+[链接](https://github.com/microsoft/vscode/releases)
 
-1. Numbered
-2. List
+### Dev C++
 
-**Bold** and _Italic_ and `Code` text
+一个快捷、方便且强大的IDE
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xgugugu/download/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[链接](https://github.com/royqh1979/Dev-CPP/releases)
